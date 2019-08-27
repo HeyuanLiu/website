@@ -10,14 +10,15 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-	"Combinatorial Optimization", 
-    "Robust Optimization"
+	"Optimization Theory", 
+    "Statistical Learning", 
+	"Operations Research"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Industrial Engineering and Operations Research"
-  institution = "University of California at Berkeley"
+  institution = "IEOR, University of California at Berkeley"
   year = 2022
 
 [[education.courses]]
@@ -29,4 +30,4 @@ weight = 5
 
 # Biography
 
-Heyuan is a PhD student of IEOR at UC Berkeley. 
+Heyuan is a third year PhD student of IEOR at UC Berkeley. 
